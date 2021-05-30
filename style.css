@@ -1,0 +1,21 @@
+.b{
+    background-image: url("Art.jpg");
+     background-position: center;
+     background-size: cover;
+ }
+ 
+ #CanvasToDraw
+ {
+     border-width: 10px;
+     background-color: white;
+     border-style: ridge;
+ 
+ }
+
+ #Color{
+     color: darkblue;
+ }
+
+ #Thickness{
+     color: rgb(87, 0, 0);
+ }
